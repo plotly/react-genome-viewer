@@ -2,9 +2,10 @@
 
 Genome viewer in React based upon Pileup.js
 
-![]()
+[![Build
+Status](https://travis-ci.org/plotly/react-genome-viewer.svg?branch=master)](https://travis-ci.org/plotly/react-genome-viewer)
 
-![]()
+![](./assets/picture_1.png)
 
 
 ## Getting started
