@@ -1,7 +1,7 @@
 {
   "name": "react-genome-viewer",
   "main": "lib/index.js",
-  "version": "0.5.5",
+  "version": "0.5.6",
   "description": "A React component for an interactive in-browser track viewer",
   "scripts": {
     "start": "webpack-serve ./webpack.serve.config.js --open",
